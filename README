@@ -1,0 +1,18 @@
+Siddhi Chitgopkar (811-740-410)
+Gavin Gaude (811-433-081)
+
+Instructions:
+To compile the programs, type "make" into the terminal.
+To run the different programs, type:
+"./head [-c number | -n number] [files...]",
+"./tail [-c number | -n number] [files...]",
+"./wc [-clw] [files...]",
+"./true",
+"./false",
+"./env"
+into the terminal after compiling.
+To remove the executables and object codes, type "make clean".
+
+Details on Group Contribution:
+Siddhi: wc.c, true.c, false.c, env.c
+Gavin: head.c, tail.cs
